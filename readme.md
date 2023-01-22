@@ -2,7 +2,7 @@
 ## Technology Used
 - HTML
 - CSS
-- JavaScript:
+- JavaScript
 
 ![See what you type](./Image/Age.jpg)
 
